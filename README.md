@@ -3,7 +3,7 @@
 ### Aspiring Data Analyst | SQL • Excel • Python • Power BI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4479A1&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Learning+SQL%2C+Excel%2C+Python+%26+Power+BI;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
+  <i>Turning data into insights, one analysis at a time.</i>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 Hi! I'm **Meenu Kumari**, a BCA student and an aspiring **Data Analyst** passionate about working with data and discovering meaningful insights.
 
-I'm currently building my skills in **SQL, Excel, Python, Pandas, and Power BI**, with a focus on data cleaning, exploratory data analysis, visualization, and business problem-solving.
+I'm currently building my skills in **SQL, Excel, Python, Pandas, NumPy, and Power BI**, with a focus on data cleaning, exploratory data analysis, data visualization, and business problem-solving.
 
 I enjoy learning how raw data can be transformed into clear insights that support better decision-making. I'm continuously improving my analytical and technical skills through hands-on practice and real-world datasets.
 
@@ -23,7 +23,7 @@ I enjoy learning how raw data can be transformed into clear insights that suppor
 ## 🔭 What I'm Currently Working On
 
 * 🗄️ Practicing **SQL** through real-world datasets and business-oriented queries.
-* 📊 Building hands-on skills in **Excel** for data cleaning, analysis, Pivot Tables, and dashboards.
+* 📊 Building hands-on skills in **Excel** for data cleaning, analysis, Pivot Tables, charts, and dashboards.
 * 🐍 Practicing **Python with Pandas and NumPy** for data manipulation and exploratory analysis.
 * 📈 Learning **Power BI** to create interactive dashboards and communicate insights effectively.
 * 🧹 Improving my **data cleaning, exploratory data analysis, and visualization** skills.
@@ -74,12 +74,15 @@ I enjoy learning how raw data can be transformed into clear insights that suppor
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Areas I'm Interested In
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenukumari8511&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenukumari8511&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
+* 📊 Data Cleaning & Preparation
+* 🔍 Exploratory Data Analysis
+* 💼 Business Analytics
+* 📈 Data Visualization
+* 📋 Dashboard Development
+* 🎯 KPI Analysis
+* 💡 Data-Driven Decision Making
 
 ---
 
@@ -96,8 +99,6 @@ I enjoy learning how raw data can be transformed into clear insights that suppor
 
 ---
 
-### 💡 Learning Today. Building Tomorrow.
-
 <p align="center">
-  <i>Turning data into insights, one analysis at a time.</i>
+  <i>💡 Learning Today. Building Tomorrow.</i>
 </p>
